@@ -6,6 +6,9 @@
   top: 0;
   background-color: blueviolet;
 }
+.nav_buttons > a {
+  margin: 0 60px;
+}
 
 #photoNdetail {
   display: flex;
@@ -29,13 +32,11 @@
 #about_me,
 #contact,
 #skills > div {
-  padding: 150px;
-  height: 500px;
+  padding: 100px;
 }
 
 a {
   text-decoration: none;
-  margin: 0 60px;
   font-size: 25px;
 }
 

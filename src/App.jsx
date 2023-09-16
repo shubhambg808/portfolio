@@ -1,6 +1,7 @@
 import "./App.css";
 import profile from "./assets/profile.png";
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Skills from "./components/Skills";
 
 function App() {
@@ -43,6 +44,7 @@ function App() {
       <section id="contact">
         <div>
           <h1 className="headings">Contact</h1>
+          <Contact />
         </div>
       </section>
     </>

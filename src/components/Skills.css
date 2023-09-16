@@ -12,19 +12,3 @@ li {
   height: 60px;
   width: 60px;
 }
-
-.projects_list {
-  display: flex;
-}
-
-.project > img {
-  border-radius: 20px;
-  height: 250px;
-  width: 260px;
-}
-
-.project {
-  border: 1px solid blueviolet;
-  border-radius: 20px;
-  box-shadow: 0px 0px 8px 1px blueviolet;
-}

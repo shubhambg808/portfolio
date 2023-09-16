@@ -1,0 +1,16 @@
+.projects_list {
+  display: flex;
+}
+
+.projects_list {
+  text-align: center;
+}
+.pr_img {
+  height: 250px;
+  width: 200px;
+  border-radius: 20px;
+  border: 1px solid blueviolet;
+  border-radius: 20px;
+  box-shadow: 0px 0px 6px 1px blueviolet;
+  margin: 0 30px;
+}
